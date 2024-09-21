@@ -173,7 +173,7 @@ if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--dataset',
 						type=str,
-						choices=["absa_dataset"],
+						# choices=["absa_dataset"],
 						help='dataset, as a folder name, you can choose from semeval2015 and semeval2016')
 	args = parser.parse_args()
 
