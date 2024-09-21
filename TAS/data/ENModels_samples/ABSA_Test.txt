@@ -1,0 +1,211 @@
+sentence_id	sentence	target	category	polarity	category_polarity	entailed	start	end
+TripAdivisor_Vi_10007:0	we arrived late for check - in , but we were well received by the front desk and bell man .	we arrived late for check - in , but we were well received by the front desk and bell man	service	positive	service positive	yes	1	21
+TripAdivisor_Vi_10007:0	we arrived late for check - in , but we were well received by the front desk and bell man .	we arrived late for check - in , but we were well received by the front desk and bell man	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10007:0	we arrived late for check - in , but we were well received by the front desk and bell man .	we arrived late for check - in , but we were well received by the front desk and bell man	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10007:1	5 stars for staff .	5 stars for staff	service	positive	service positive	yes	1	5
+TripAdivisor_Vi_10007:1	5 stars for staff .	5 stars for staff	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10007:1	5 stars for staff .	5 stars for staff	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10007:2	rooms are clean and spacious . furniture is quite basic with nothing special . but each room has a balcony overlooking the sea , the sea is very close so you can hear the waves .	rooms are clean and spacious . furniture is quite basic with nothing special . but each room has a balcony overlooking the sea , the sea is very close so you can hear the waves	facility	positive	facility positive	yes	1	36
+TripAdivisor_Vi_10007:2	rooms are clean and spacious . furniture is quite basic with nothing special . but each room has a balcony overlooking the sea , the sea is very close so you can hear the waves .	rooms are clean and spacious . furniture is quite basic with nothing special . but each room has a balcony overlooking the sea , the sea is very close so you can hear the waves	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10007:2	rooms are clean and spacious . furniture is quite basic with nothing special . but each room has a balcony overlooking the sea , the sea is very close so you can hear the waves .	rooms are clean and spacious . furniture is quite basic with nothing special . but each room has a balcony overlooking the sea , the sea is very close so you can hear the waves	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10007:3	there's not a lot of choice in breakfast . it needs to be improved .	there's not a lot of choice in breakfast . it needs to be improved	service	positive	service positive	no	0	0
+TripAdivisor_Vi_10007:3	there's not a lot of choice in breakfast . it needs to be improved .	there's not a lot of choice in breakfast . it needs to be improved	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10007:3	there's not a lot of choice in breakfast . it needs to be improved .	there's not a lot of choice in breakfast . it needs to be improved	service	neutral	service neutral	yes	1	15
+TripAdivisor_Vi_10007:4	if i get a chance , i'll come back .	if i get a chance , i'll come back	loyalty	positive	loyalty positive	yes	1	10
+TripAdivisor_Vi_10007:4	if i get a chance , i'll come back .	if i get a chance , i'll come back	loyalty	negative	loyalty negative	no	0	0
+TripAdivisor_Vi_10007:4	if i get a chance , i'll come back .	if i get a chance , i'll come back	loyalty	neutral	loyalty neutral	no	0	0
+TripAdivisor_Vi_10010:0	avani has a space in harmony with nature .	avani has a space in harmony with nature	experience	positive	experience positive	yes	1	9
+TripAdivisor_Vi_10010:0	avani has a space in harmony with nature .	avani has a space in harmony with nature	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10010:0	avani has a space in harmony with nature .	avani has a space in harmony with nature	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10010:1	the clean rooms are quiet and airy .	the clean rooms are quiet and airy	facility	positive	facility positive	yes	1	8
+TripAdivisor_Vi_10010:1	the clean rooms are quiet and airy .	the clean rooms are quiet and airy	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10010:1	the clean rooms are quiet and airy .	the clean rooms are quiet and airy	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10010:2	professional lightweight staff .	professional lightweight staff	service	positive	service positive	yes	1	4
+TripAdivisor_Vi_10010:2	professional lightweight staff .	professional lightweight staff	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10010:2	professional lightweight staff .	professional lightweight staff	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10010:3	from the accommodation point can easily reach other locations in quy nhon or binh dinh , phu yen .	from the accommodation point can easily reach other locations in quy nhon or binh dinh , phu yen	amenity	positive	amenity positive	yes	1	19
+TripAdivisor_Vi_10010:3	from the accommodation point can easily reach other locations in quy nhon or binh dinh , phu yen .	from the accommodation point can easily reach other locations in quy nhon or binh dinh , phu yen	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_10010:3	from the accommodation point can easily reach other locations in quy nhon or binh dinh , phu yen .	from the accommodation point can easily reach other locations in quy nhon or binh dinh , phu yen	amenity	neutral	amenity neutral	no	0	0
+TripAdivisor_Vi_10010:4	beautiful resort common space brings a sense of relaxation .	beautiful resort common space brings a sense of relaxation	experience	positive	experience positive	yes	1	10
+TripAdivisor_Vi_10010:4	beautiful resort common space brings a sense of relaxation .	beautiful resort common space brings a sense of relaxation	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10010:4	beautiful resort common space brings a sense of relaxation .	beautiful resort common space brings a sense of relaxation	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10010:5	small inflatable swimming pool , clean water .	small inflatable swimming pool , clean water	facility	positive	facility positive	yes	1	8
+TripAdivisor_Vi_10010:5	small inflatable swimming pool , clean water .	small inflatable swimming pool , clean water	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10010:5	small inflatable swimming pool , clean water .	small inflatable swimming pool , clean water	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10010:6	gym , game slightly sealed not ventilated .	gym , game slightly sealed not ventilated	facility	positive	facility positive	no	0	0
+TripAdivisor_Vi_10010:6	gym , game slightly sealed not ventilated .	gym , game slightly sealed not ventilated	facility	negative	facility negative	yes	1	8
+TripAdivisor_Vi_10010:6	gym , game slightly sealed not ventilated .	gym , game slightly sealed not ventilated	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10011:0	to quynhon i recommend you to stay here , as this is one of the best resorts currently .	to quynhon i recommend you to stay here , as this is one of the best resorts currently	branding	positive	branding positive	yes	1	19
+TripAdivisor_Vi_10011:0	to quynhon i recommend you to stay here , as this is one of the best resorts currently .	to quynhon i recommend you to stay here , as this is one of the best resorts currently	branding	negative	branding negative	no	0	0
+TripAdivisor_Vi_10011:0	to quynhon i recommend you to stay here , as this is one of the best resorts currently .	to quynhon i recommend you to stay here , as this is one of the best resorts currently	branding	neutral	branding neutral	no	0	0
+TripAdivisor_Vi_10011:1	with well - trained staff , believe that your trip will be like mine .	with well - trained staff , believe that your trip will be like mine	service	positive	service positive	yes	1	15
+TripAdivisor_Vi_10011:1	with well - trained staff , believe that your trip will be like mine .	with well - trained staff , believe that your trip will be like mine	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10011:1	with well - trained staff , believe that your trip will be like mine .	with well - trained staff , believe that your trip will be like mine	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10013:0	friendly staff .	friendly staff	service	positive	service positive	yes	1	3
+TripAdivisor_Vi_10013:0	friendly staff .	friendly staff	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10013:0	friendly staff .	friendly staff	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10013:1	beautiful view rooms , clean rooms .	beautiful view rooms , clean rooms	facility	positive	facility positive	yes	1	7
+TripAdivisor_Vi_10013:1	beautiful view rooms , clean rooms .	beautiful view rooms , clean rooms	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10013:1	beautiful view rooms , clean rooms .	beautiful view rooms , clean rooms	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10013:2	delicious food .	delicious food	service	positive	service positive	yes	1	3
+TripAdivisor_Vi_10013:2	delicious food .	delicious food	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10013:2	delicious food .	delicious food	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10013:3	there is only one point avani should fix is the curtain in the bathroom . due to the fabric curtain should be easy to get wet , in the closed room should slightly smell .	there is only one point avani should fix is the curtain in the bathroom . due to the fabric curtain should be easy to get wet , in the closed room should slightly smell	experience	positive	experience positive	no	0	0
+TripAdivisor_Vi_10013:3	there is only one point avani should fix is the curtain in the bathroom . due to the fabric curtain should be easy to get wet , in the closed room should slightly smell .	there is only one point avani should fix is the curtain in the bathroom . due to the fabric curtain should be easy to get wet , in the closed room should slightly smell	experience	negative	experience negative	yes	1	35
+TripAdivisor_Vi_10013:3	there is only one point avani should fix is the curtain in the bathroom . due to the fabric curtain should be easy to get wet , in the closed room should slightly smell .	there is only one point avani should fix is the curtain in the bathroom . due to the fabric curtain should be easy to get wet , in the closed room should slightly smell	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10018:0	avani in a quiet , beautiful location , suitable as a great resort .	avani in a quiet , beautiful location , suitable as a great resort	branding	positive	branding positive	yes	1	14
+TripAdivisor_Vi_10018:0	avani in a quiet , beautiful location , suitable as a great resort .	avani in a quiet , beautiful location , suitable as a great resort	branding	negative	branding negative	no	0	0
+TripAdivisor_Vi_10018:0	avani in a quiet , beautiful location , suitable as a great resort .	avani in a quiet , beautiful location , suitable as a great resort	branding	neutral	branding neutral	no	0	0
+TripAdivisor_Vi_10018:1	this is what avani is more than other noisy resorts .	this is what avani is more than other noisy resorts	branding	positive	branding positive	yes	1	11
+TripAdivisor_Vi_10018:1	this is what avani is more than other noisy resorts .	this is what avani is more than other noisy resorts	branding	negative	branding negative	no	0	0
+TripAdivisor_Vi_10018:1	this is what avani is more than other noisy resorts .	this is what avani is more than other noisy resorts	branding	neutral	branding neutral	no	0	0
+TripAdivisor_Vi_10024:0	the best point of the resort is the pristine beach , clean and absolute privacy .	the best point of the resort is the pristine beach , clean and absolute privacy	experience	positive	experience positive	yes	1	16
+TripAdivisor_Vi_10024:0	the best point of the resort is the pristine beach , clean and absolute privacy .	the best point of the resort is the pristine beach , clean and absolute privacy	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10024:0	the best point of the resort is the pristine beach , clean and absolute privacy .	the best point of the resort is the pristine beach , clean and absolute privacy	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10024:1	we have the opportunity to get acquainted with a lot of natural friends such as octopus , starfish , fish . what we rarely meet in the sea of phu quoc , da nang or nha trang .	we have the opportunity to get acquainted with a lot of natural friends such as octopus , starfish , fish . what we rarely meet in the sea of phu quoc , da nang or nha trang	branding	positive	branding positive	yes	1	38
+TripAdivisor_Vi_10024:1	we have the opportunity to get acquainted with a lot of natural friends such as octopus , starfish , fish . what we rarely meet in the sea of phu quoc , da nang or nha trang .	we have the opportunity to get acquainted with a lot of natural friends such as octopus , starfish , fish . what we rarely meet in the sea of phu quoc , da nang or nha trang	branding	negative	branding negative	no	0	0
+TripAdivisor_Vi_10024:1	we have the opportunity to get acquainted with a lot of natural friends such as octopus , starfish , fish . what we rarely meet in the sea of phu quoc , da nang or nha trang .	we have the opportunity to get acquainted with a lot of natural friends such as octopus , starfish , fish . what we rarely meet in the sea of phu quoc , da nang or nha trang	branding	neutral	branding neutral	no	0	0
+TripAdivisor_Vi_10024:2	the resort's suites are charming and designed in harmony with the overall .	the resort's suites are charming and designed in harmony with the overall	facility	positive	facility positive	yes	1	13
+TripAdivisor_Vi_10024:2	the resort's suites are charming and designed in harmony with the overall .	the resort's suites are charming and designed in harmony with the overall	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10024:2	the resort's suites are charming and designed in harmony with the overall .	the resort's suites are charming and designed in harmony with the overall	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10024:3	beautiful room , large balcony , airy with romantic sea view .	beautiful room , large balcony , airy with romantic sea view	facility	positive	facility positive	yes	1	12
+TripAdivisor_Vi_10024:3	beautiful room , large balcony , airy with romantic sea view .	beautiful room , large balcony , airy with romantic sea view	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10024:3	beautiful room , large balcony , airy with romantic sea view .	beautiful room , large balcony , airy with romantic sea view	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10024:4	plus for family travelers as the hotel has a gym and a fairly modern children's playroom .	plus for family travelers as the hotel has a gym and a fairly modern children's playroom	experience	positive	experience positive	yes	1	17
+TripAdivisor_Vi_10024:4	plus for family travelers as the hotel has a gym and a fairly modern children's playroom .	plus for family travelers as the hotel has a gym and a fairly modern children's playroom	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10024:4	plus for family travelers as the hotel has a gym and a fairly modern children's playroom .	plus for family travelers as the hotel has a gym and a fairly modern children's playroom	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10026:0	i and my husband love this resort , a day here gives us a feeling of relaxation , warmth , comfort , as pleasant as possible .	i and my husband love this resort , a day here gives us a feeling of relaxation , warmth , comfort , as pleasant as possible	experience	positive	experience positive	yes	1	27
+TripAdivisor_Vi_10026:0	i and my husband love this resort , a day here gives us a feeling of relaxation , warmth , comfort , as pleasant as possible .	i and my husband love this resort , a day here gives us a feeling of relaxation , warmth , comfort , as pleasant as possible	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10026:0	i and my husband love this resort , a day here gives us a feeling of relaxation , warmth , comfort , as pleasant as possible .	i and my husband love this resort , a day here gives us a feeling of relaxation , warmth , comfort , as pleasant as possible	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10026:1	just a few small minuses hope to improve in the coming time to be more complete .	just a few small minuses hope to improve in the coming time to be more complete	experience	positive	experience positive	no	0	0
+TripAdivisor_Vi_10026:1	just a few small minuses hope to improve in the coming time to be more complete .	just a few small minuses hope to improve in the coming time to be more complete	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10026:1	just a few small minuses hope to improve in the coming time to be more complete .	just a few small minuses hope to improve in the coming time to be more complete	experience	neutral	experience neutral	yes	1	17
+TripAdivisor_Vi_10026:2	this is an ideal destination and relaxation .	this is an ideal destination and relaxation	experience	positive	experience positive	yes	1	8
+TripAdivisor_Vi_10026:2	this is an ideal destination and relaxation .	this is an ideal destination and relaxation	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10026:2	this is an ideal destination and relaxation .	this is an ideal destination and relaxation	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10026:3	extremely delicious restaurant dinner .	extremely delicious restaurant dinner	service	positive	service positive	yes	1	5
+TripAdivisor_Vi_10026:3	extremely delicious restaurant dinner .	extremely delicious restaurant dinner	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10026:3	extremely delicious restaurant dinner .	extremely delicious restaurant dinner	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10026:4	breakfast is not too sophisticated but very well - groomed and sophisticated in the layout , layout . serving .	breakfast is not too sophisticated but very well - groomed and sophisticated in the layout , layout . serving	service	positive	service positive	yes	1	20
+TripAdivisor_Vi_10026:4	breakfast is not too sophisticated but very well - groomed and sophisticated in the layout , layout . serving .	breakfast is not too sophisticated but very well - groomed and sophisticated in the layout , layout . serving	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10026:4	breakfast is not too sophisticated but very well - groomed and sophisticated in the layout , layout . serving .	breakfast is not too sophisticated but very well - groomed and sophisticated in the layout , layout . serving	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_1003:0	nice , clean room .	nice , clean room	facility	positive	facility positive	yes	1	5
+TripAdivisor_Vi_1003:0	nice , clean room .	nice , clean room	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_1003:0	nice , clean room .	nice , clean room	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_1003:1	the hotel in the center is very convenient .	the hotel in the center is very convenient	amenity	positive	amenity positive	yes	1	9
+TripAdivisor_Vi_1003:1	the hotel in the center is very convenient .	the hotel in the center is very convenient	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_1003:1	the hotel in the center is very convenient .	the hotel in the center is very convenient	amenity	neutral	amenity neutral	no	0	0
+TripAdivisor_Vi_1003:2	especially enthusiastic and friendly staff .	especially enthusiastic and friendly staff	service	positive	service positive	yes	1	6
+TripAdivisor_Vi_1003:2	especially enthusiastic and friendly staff .	especially enthusiastic and friendly staff	service	negative	service negative	no	0	0
+TripAdivisor_Vi_1003:2	especially enthusiastic and friendly staff .	especially enthusiastic and friendly staff	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_1003:3	delicious and rich food .	delicious and rich food	service	positive	service positive	yes	1	5
+TripAdivisor_Vi_1003:3	delicious and rich food .	delicious and rich food	service	negative	service negative	no	0	0
+TripAdivisor_Vi_1003:3	delicious and rich food .	delicious and rich food	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_1003:4	i will come back and introduce my friends here if they have the opportunity to come to hanoi .	i will come back and introduce my friends here if they have the opportunity to come to hanoi	loyalty	positive	loyalty positive	yes	1	19
+TripAdivisor_Vi_1003:4	i will come back and introduce my friends here if they have the opportunity to come to hanoi .	i will come back and introduce my friends here if they have the opportunity to come to hanoi	loyalty	negative	loyalty negative	no	0	0
+TripAdivisor_Vi_1003:4	i will come back and introduce my friends here if they have the opportunity to come to hanoi .	i will come back and introduce my friends here if they have the opportunity to come to hanoi	loyalty	neutral	loyalty neutral	no	0	0
+TripAdivisor_Vi_10034:0	long , wide and beautiful beach .	long , wide and beautiful beach	amenity	positive	amenity positive	yes	1	7
+TripAdivisor_Vi_10034:0	long , wide and beautiful beach .	long , wide and beautiful beach	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_10034:0	long , wide and beautiful beach .	long , wide and beautiful beach	amenity	neutral	amenity neutral	no	0	0
+TripAdivisor_Vi_10034:1	especially at sunset and at night , it's very impressive .	especially at sunset and at night , it's very impressive	amenity	positive	amenity positive	yes	1	11
+TripAdivisor_Vi_10034:1	especially at sunset and at night , it's very impressive .	especially at sunset and at night , it's very impressive	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_10034:1	especially at sunset and at night , it's very impressive .	especially at sunset and at night , it's very impressive	amenity	neutral	amenity neutral	no	0	0
+TripAdivisor_Vi_10034:2	but the waves are a little big and the water is quite deep for children .	but the waves are a little big and the water is quite deep for children	amenity	positive	amenity positive	no	0	0
+TripAdivisor_Vi_10034:2	but the waves are a little big and the water is quite deep for children .	but the waves are a little big and the water is quite deep for children	amenity	negative	amenity negative	yes	1	16
+TripAdivisor_Vi_10034:2	but the waves are a little big and the water is quite deep for children .	but the waves are a little big and the water is quite deep for children	amenity	neutral	amenity neutral	no	0	0
+TripAdivisor_Vi_10034:3	children should go far towards the village , there are small beaches and no waves .	children should go far towards the village , there are small beaches and no waves	amenity	positive	amenity positive	no	0	0
+TripAdivisor_Vi_10034:3	children should go far towards the village , there are small beaches and no waves .	children should go far towards the village , there are small beaches and no waves	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_10034:3	children should go far towards the village , there are small beaches and no waves .	children should go far towards the village , there are small beaches and no waves	amenity	neutral	amenity neutral	yes	1	16
+TripAdivisor_Vi_10034:4	impressive design resort .	impressive design resort	facility	positive	facility positive	no	0	0
+TripAdivisor_Vi_10034:4	impressive design resort .	impressive design resort	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10034:4	impressive design resort .	impressive design resort	facility	neutral	facility neutral	yes	1	4
+TripAdivisor_Vi_10034:5	it's great to have dinner between the stars and the shimmering lights of the sea .	it's great to have dinner between the stars and the shimmering lights of the sea	service	positive	service positive	yes	1	16
+TripAdivisor_Vi_10034:5	it's great to have dinner between the stars and the shimmering lights of the sea .	it's great to have dinner between the stars and the shimmering lights of the sea	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10034:5	it's great to have dinner between the stars and the shimmering lights of the sea .	it's great to have dinner between the stars and the shimmering lights of the sea	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10034:6	extremely pleasant staff .	extremely pleasant staff	service	positive	service positive	yes	1	4
+TripAdivisor_Vi_10034:6	extremely pleasant staff .	extremely pleasant staff	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10034:6	extremely pleasant staff .	extremely pleasant staff	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10034:7	rooms and railings are very beautiful .	rooms and railings are very beautiful	facility	positive	facility positive	yes	1	7
+TripAdivisor_Vi_10034:7	rooms and railings are very beautiful .	rooms and railings are very beautiful	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10034:7	rooms and railings are very beautiful .	rooms and railings are very beautiful	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10059:0	friendly staff , convenient service .	friendly staff , convenient service	service	positive	service positive	yes	1	6
+TripAdivisor_Vi_10059:0	friendly staff , convenient service .	friendly staff , convenient service	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10059:0	friendly staff , convenient service .	friendly staff , convenient service	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10059:1	me and my family are very pleased .	me and my family are very pleased	experience	positive	experience positive	yes	1	8
+TripAdivisor_Vi_10059:1	me and my family are very pleased .	me and my family are very pleased	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10059:1	me and my family are very pleased .	me and my family are very pleased	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10059:2	get rid of the chaos in everyday life , mingle with nature , earth and sky , the wonderful moments at cendeluxe will be unforgettable memories of my family .	get rid of the chaos in everyday life , mingle with nature , earth and sky , the wonderful moments at cendeluxe will be unforgettable memories of my family	experience	positive	experience positive	yes	1	30
+TripAdivisor_Vi_10059:2	get rid of the chaos in everyday life , mingle with nature , earth and sky , the wonderful moments at cendeluxe will be unforgettable memories of my family .	get rid of the chaos in everyday life , mingle with nature , earth and sky , the wonderful moments at cendeluxe will be unforgettable memories of my family	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10059:2	get rid of the chaos in everyday life , mingle with nature , earth and sky , the wonderful moments at cendeluxe will be unforgettable memories of my family .	get rid of the chaos in everyday life , mingle with nature , earth and sky , the wonderful moments at cendeluxe will be unforgettable memories of my family	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10060:0	the only 5 - star hotel in tuy hoa .	the only 5 - star hotel in tuy hoa	branding	positive	branding positive	yes	1	10
+TripAdivisor_Vi_10060:0	the only 5 - star hotel in tuy hoa .	the only 5 - star hotel in tuy hoa	branding	negative	branding negative	no	0	0
+TripAdivisor_Vi_10060:0	the only 5 - star hotel in tuy hoa .	the only 5 - star hotel in tuy hoa	branding	neutral	branding neutral	no	0	0
+TripAdivisor_Vi_10060:1	good hotel service , very attentive and friendly staff to help guests .	good hotel service , very attentive and friendly staff to help guests	service	positive	service positive	yes	1	13
+TripAdivisor_Vi_10060:1	good hotel service , very attentive and friendly staff to help guests .	good hotel service , very attentive and friendly staff to help guests	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10060:1	good hotel service , very attentive and friendly staff to help guests .	good hotel service , very attentive and friendly staff to help guests	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10060:2	delicious breakfast but food should be richer according to 5 - star standards .	delicious breakfast but food should be richer according to 5 - star standards	service	positive	service positive	yes	1	14
+TripAdivisor_Vi_10060:2	delicious breakfast but food should be richer according to 5 - star standards .	delicious breakfast but food should be richer according to 5 - star standards	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10060:2	delicious breakfast but food should be richer according to 5 - star standards .	delicious breakfast but food should be richer according to 5 - star standards	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10060:3	beautiful swimming pool , luxury lounge .	beautiful swimming pool , luxury lounge	facility	positive	facility positive	yes	1	7
+TripAdivisor_Vi_10060:3	beautiful swimming pool , luxury lounge .	beautiful swimming pool , luxury lounge	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10060:3	beautiful swimming pool , luxury lounge .	beautiful swimming pool , luxury lounge	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10063:0	room is moderate , clean , relatively good equipment .	room is moderate , clean , relatively good equipment	facility	positive	facility positive	no	0	0
+TripAdivisor_Vi_10063:0	room is moderate , clean , relatively good equipment .	room is moderate , clean , relatively good equipment	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10063:0	room is moderate , clean , relatively good equipment .	room is moderate , clean , relatively good equipment	facility	neutral	facility neutral	yes	1	10
+TripAdivisor_Vi_10063:1	rooms are fully equipped with basic items .	rooms are fully equipped with basic items	facility	positive	facility positive	yes	1	8
+TripAdivisor_Vi_10063:1	rooms are fully equipped with basic items .	rooms are fully equipped with basic items	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10063:1	rooms are fully equipped with basic items .	rooms are fully equipped with basic items	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10063:2	maybe it's because the bathroom you share with me doesn't smell bad , but my room smells a little bit .	maybe it's because the bathroom you share with me doesn't smell bad , but my room smells a little bit	facility	positive	facility positive	no	0	0
+TripAdivisor_Vi_10063:2	maybe it's because the bathroom you share with me doesn't smell bad , but my room smells a little bit .	maybe it's because the bathroom you share with me doesn't smell bad , but my room smells a little bit	facility	negative	facility negative	yes	1	21
+TripAdivisor_Vi_10063:2	maybe it's because the bathroom you share with me doesn't smell bad , but my room smells a little bit .	maybe it's because the bathroom you share with me doesn't smell bad , but my room smells a little bit	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10063:3	the bathroom's a little dirty , so i can't take pictures .	the bathroom's a little dirty , so i can't take pictures	facility	positive	facility positive	no	0	0
+TripAdivisor_Vi_10063:3	the bathroom's a little dirty , so i can't take pictures .	the bathroom's a little dirty , so i can't take pictures	facility	negative	facility negative	yes	1	12
+TripAdivisor_Vi_10063:3	the bathroom's a little dirty , so i can't take pictures .	the bathroom's a little dirty , so i can't take pictures	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10063:4	hotel opposite the beach , cafe , park near the mall .	hotel opposite the beach , cafe , park near the mall	amenity	positive	amenity positive	yes	1	12
+TripAdivisor_Vi_10063:4	hotel opposite the beach , cafe , park near the mall .	hotel opposite the beach , cafe , park near the mall	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_10063:4	hotel opposite the beach , cafe , park near the mall .	hotel opposite the beach , cafe , park near the mall	amenity	neutral	amenity neutral	no	0	0
+TripAdivisor_Vi_10066:0	the beach is fine , the waves are calm , the sand is clean .	the beach is fine , the waves are calm , the sand is clean	experience	positive	experience positive	yes	1	15
+TripAdivisor_Vi_10066:0	the beach is fine , the waves are calm , the sand is clean .	the beach is fine , the waves are calm , the sand is clean	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10066:0	the beach is fine , the waves are calm , the sand is clean .	the beach is fine , the waves are calm , the sand is clean	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10066:1	there's no water in the communal bathroom at night . i can't wash myself or my body .	there's no water in the communal bathroom at night . i can't wash myself or my body	facility	positive	facility positive	no	0	0
+TripAdivisor_Vi_10066:1	there's no water in the communal bathroom at night . i can't wash myself or my body .	there's no water in the communal bathroom at night . i can't wash myself or my body	facility	negative	facility negative	yes	1	18
+TripAdivisor_Vi_10066:1	there's no water in the communal bathroom at night . i can't wash myself or my body .	there's no water in the communal bathroom at night . i can't wash myself or my body	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10066:2	it's a team building night , so it's pretty loud .	it's a team building night , so it's pretty loud	experience	positive	experience positive	no	0	0
+TripAdivisor_Vi_10066:2	it's a team building night , so it's pretty loud .	it's a team building night , so it's pretty loud	experience	negative	experience negative	yes	1	11
+TripAdivisor_Vi_10066:2	it's a team building night , so it's pretty loud .	it's a team building night , so it's pretty loud	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10067:0	rooms are okay except the locks are so old that it's hard to open them and break the keys .	rooms are okay except the locks are so old that it's hard to open them and break the keys	facility	positive	facility positive	no	0	0
+TripAdivisor_Vi_10067:0	rooms are okay except the locks are so old that it's hard to open them and break the keys .	rooms are okay except the locks are so old that it's hard to open them and break the keys	facility	negative	facility negative	yes	1	20
+TripAdivisor_Vi_10067:0	rooms are okay except the locks are so old that it's hard to open them and break the keys .	rooms are okay except the locks are so old that it's hard to open them and break the keys	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10067:1	and then the clerk broke the door . ( thank you very much . ) .	and then the clerk broke the door . ( thank you very much . )	service	positive	service positive	no	0	0
+TripAdivisor_Vi_10067:1	and then the clerk broke the door . ( thank you very much . ) .	and then the clerk broke the door . ( thank you very much . )	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10067:1	and then the clerk broke the door . ( thank you very much . ) .	and then the clerk broke the door . ( thank you very much . )	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10067:2	we asked the kitchen to help us with the extra chicken , but we waited an hour , and then we asked the staff , and the female staff screamed for the other kids to come in and check on us , and nobody got up , and then we got annoyed , and somebody came out .	we asked the kitchen to help us with the extra chicken , but we waited an hour , and then we asked the staff , and the female staff screamed for the other kids to come in and check on us , and nobody got up , and then we got annoyed , and somebody came out	service	positive	service positive	no	0	0
+TripAdivisor_Vi_10067:2	we asked the kitchen to help us with the extra chicken , but we waited an hour , and then we asked the staff , and the female staff screamed for the other kids to come in and check on us , and nobody got up , and then we got annoyed , and somebody came out .	we asked the kitchen to help us with the extra chicken , but we waited an hour , and then we asked the staff , and the female staff screamed for the other kids to come in and check on us , and nobody got up , and then we got annoyed , and somebody came out	service	negative	service negative	yes	1	58
+TripAdivisor_Vi_10067:2	we asked the kitchen to help us with the extra chicken , but we waited an hour , and then we asked the staff , and the female staff screamed for the other kids to come in and check on us , and nobody got up , and then we got annoyed , and somebody came out .	we asked the kitchen to help us with the extra chicken , but we waited an hour , and then we asked the staff , and the female staff screamed for the other kids to come in and check on us , and nobody got up , and then we got annoyed , and somebody came out	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10067:3	in the evening , they rented loudspeakers to sing loudly and annoyingly .	in the evening , they rented loudspeakers to sing loudly and annoyingly	experience	positive	experience positive	no	0	0
+TripAdivisor_Vi_10067:3	in the evening , they rented loudspeakers to sing loudly and annoyingly .	in the evening , they rented loudspeakers to sing loudly and annoyingly	experience	negative	experience negative	yes	1	13
+TripAdivisor_Vi_10067:3	in the evening , they rented loudspeakers to sing loudly and annoyingly .	in the evening , they rented loudspeakers to sing loudly and annoyingly	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10080:0	this is a pretty good hotel , clean rooms .	this is a pretty good hotel , clean rooms	facility	positive	facility positive	no	0	0
+TripAdivisor_Vi_10080:0	this is a pretty good hotel , clean rooms .	this is a pretty good hotel , clean rooms	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10080:0	this is a pretty good hotel , clean rooms .	this is a pretty good hotel , clean rooms	facility	neutral	facility neutral	yes	1	10
+TripAdivisor_Vi_10080:1	at the sightseeing spots in tuy hoa are far , have to take a taxi so actually in any location in tuy hoa city is okay .	at the sightseeing spots in tuy hoa are far , have to take a taxi so actually in any location in tuy hoa city is okay	amenity	positive	amenity positive	no	0	0
+TripAdivisor_Vi_10080:1	at the sightseeing spots in tuy hoa are far , have to take a taxi so actually in any location in tuy hoa city is okay .	at the sightseeing spots in tuy hoa are far , have to take a taxi so actually in any location in tuy hoa city is okay	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_10080:1	at the sightseeing spots in tuy hoa are far , have to take a taxi so actually in any location in tuy hoa city is okay .	at the sightseeing spots in tuy hoa are far , have to take a taxi so actually in any location in tuy hoa city is okay	amenity	neutral	amenity neutral	yes	1	27
+TripAdivisor_Vi_10085:0	it's worth the money .	it's worth the money	experience	positive	experience positive	yes	1	5
+TripAdivisor_Vi_10085:0	it's worth the money .	it's worth the money	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10085:0	it's worth the money .	it's worth the money	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10085:1	hotel near the sea .	hotel near the sea	amenity	positive	amenity positive	yes	1	5
+TripAdivisor_Vi_10085:1	hotel near the sea .	hotel near the sea	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_10085:1	hotel near the sea .	hotel near the sea	amenity	neutral	amenity neutral	no	0	0
+TripAdivisor_Vi_10085:2	overly enthusiastic staff , fun .	overly enthusiastic staff , fun	service	positive	service positive	yes	1	6
+TripAdivisor_Vi_10085:2	overly enthusiastic staff , fun .	overly enthusiastic staff , fun	service	negative	service negative	no	0	0
+TripAdivisor_Vi_10085:2	overly enthusiastic staff , fun .	overly enthusiastic staff , fun	service	neutral	service neutral	no	0	0
+TripAdivisor_Vi_10085:3	with a terrace overlooking the sea .	with a terrace overlooking the sea	facility	positive	facility positive	yes	1	7
+TripAdivisor_Vi_10085:3	with a terrace overlooking the sea .	with a terrace overlooking the sea	facility	negative	facility negative	no	0	0
+TripAdivisor_Vi_10085:3	with a terrace overlooking the sea .	with a terrace overlooking the sea	facility	neutral	facility neutral	no	0	0
+TripAdivisor_Vi_10085:4	beautiful . reasonable price .	beautiful . reasonable price	experience	positive	experience positive	yes	1	5
+TripAdivisor_Vi_10085:4	beautiful . reasonable price .	beautiful . reasonable price	experience	negative	experience negative	no	0	0
+TripAdivisor_Vi_10085:4	beautiful . reasonable price .	beautiful . reasonable price	experience	neutral	experience neutral	no	0	0
+TripAdivisor_Vi_10085:5	you should contact the hotel in advance for airport or pier shuttle assistance .	you should contact the hotel in advance for airport or pier shuttle assistance	amenity	positive	amenity positive	yes	1	14
+TripAdivisor_Vi_10085:5	you should contact the hotel in advance for airport or pier shuttle assistance .	you should contact the hotel in advance for airport or pier shuttle assistance	amenity	negative	amenity negative	no	0	0
+TripAdivisor_Vi_10085:5	you should contact the hotel in advance for airport or pier shuttle assistance .	you should contact the hotel in advance for airport or pier shuttle assistance	amenity	neutral	amenity neutral	no	0	0
