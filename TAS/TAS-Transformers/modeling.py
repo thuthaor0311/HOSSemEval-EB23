@@ -34,10 +34,8 @@ class BertForTABSAJoint(nn.Module):
 		self.max_seq_length = max_seq_length
 
 	def forward(self, input_ids, token_type_ids, attention_mask, labels, ner_labels):
-		# outputs = self.bert(input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
-		outputs = self.bert(input_ids, attention_mask=attention_mask)
-		# all_encoder_layers, pooled_output = self.bert(input_ids, token_type_ids, attention_mask)
-		all_encoder_layers, pooled_output = self.bert(input_ids, attention_mask)
+		outputs = self.bert(input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
+		all_encoder_layers, pooled_output = self.bert(input_ids, token_type_ids, attention_mask)
 		# get the last hidden layer
 		sequence_output = outputs.last_hidden_state
 		# cross a dropout layer
@@ -72,8 +70,7 @@ class BertForTABSAJoint_CRF(nn.Module):
 		self.CRF_model = CRF(num_ner_labels, batch_first=True)
 
 	def forward(self, input_ids, token_type_ids, attention_mask, labels, ner_labels, ner_mask):
-		# outputs = self.bert(input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
-		outputs = self.bert(input_ids, attention_mask=attention_mask)
+		outputs = self.bert(input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
 		# all_encoder_layers, pooled_output = self.bert(input_ids, token_type_ids, attention_mask)
 		# get the last hidden layer
 		sequence_output = outputs.last_hidden_state
