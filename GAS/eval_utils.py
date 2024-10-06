@@ -374,6 +374,9 @@ def check_label(pred_i, gold, model):
         if pred_i == g:
             return 1
         else:
+            if not g[1] or not pred_i[1]:
+                continue
+            
               # Option 1
             encode_gold = model.encode(g[1])
             encode_pred = model.encode(pred_i[1])
