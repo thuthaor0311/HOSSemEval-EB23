@@ -566,7 +566,12 @@ if args.do_direct_eval:
     # print(scores)
 
     # write to file
-    log_file_path = f"results_log/{args.task}-{args.dataset}.txt"
+    results_log_dir = "./results_log"
+    if not os.path.exists(results_log_dir):
+        os.mkdir(results_log_dir)
+    log_file_path = f"{results_log_dir}/{args.task}-{args.dataset}.txt"
+
+    # log_file_path = f"results_log/{args.task}-{args.dataset}.txt"
     local_time = time.asctime(time.localtime(time.time()))
     exp_settings = f"{args.task} on {args.dataset} under {args.paradigm}; Train bs={args.train_batch_size}, num_epochs = {args.num_train_epochs}"
     exp_results = f"F1 = {raw_scores['f1']:.4f}"
