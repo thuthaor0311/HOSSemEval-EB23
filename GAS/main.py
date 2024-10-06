@@ -415,6 +415,7 @@ if args.do_train:
         accumulate_grad_batches=args.gradient_accumulation_steps,
         # gpus=args.n_gpu,
         devices="auto",
+        accelerator= "auto",
         gradient_clip_val=1.0,
         # amp_level='O1',
         max_epochs=args.num_train_epochs,
