@@ -336,7 +336,7 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
 
     outputs, targets = [], []
 
-    print('########### testing ###########')
+    print('########### testing1 ###########')
     for batch in tqdm(data_loader):
         # need to push the data to device
         outs = model.model.generate(
@@ -353,7 +353,7 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
 
         outputs.extend(dec)
         targets.extend(target)
-    print('########### testing ###########')
+    print('########### testing2 ###########')
 
     if check_inference:
         idx = np.random.randint(0, len(targets), 5)
@@ -467,10 +467,10 @@ if args.do_direct_eval:
     # print(test_loader.device)
 
     # compute the performance scores
-    print('########### testing ###########')
+    print('########### testing3 ###########')
 
     scores = evaluate(test_loader, model, sents)
-    print('########### testing ###########')
+    print('########### testing4 ###########')
 
     # write to file
     log_file_path = f"results_log/{args.dataset}.txt"
