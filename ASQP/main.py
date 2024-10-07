@@ -336,7 +336,7 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
 
     outputs, targets = [], []
 
-    print('########### testing1 ###########')
+    print('########### testing 1 ###########')
     for batch in tqdm(data_loader):
         # need to push the data to device
         outs = model.model.generate(
@@ -353,9 +353,10 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
 
         outputs.extend(dec)
         targets.extend(target)
-    print('########### testing2 ###########')
+    print('########### testing 2 ###########')
 
     if check_inference:
+        print('########### testing 3 ###########')   
         idx = np.random.randint(0, len(targets), 5)
         print(
             "\nPrint some results to check the sanity of generation method:",
@@ -374,7 +375,9 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
     scores, all_labels, all_preds = compute_scores(
         outputs, targets, sents, task
     )
+    print('########### testing 4 ###########')
     results = {"scores": scores, "labels": all_labels, "preds": all_preds}
+    print('########### testing 5 ###########')
     # pickle.dump(results, open(f"{args.output_dir}/results-{args.dataset}.pickle", 'wb'))
     print(results)
     return scores
@@ -467,10 +470,10 @@ if args.do_direct_eval:
     # print(test_loader.device)
 
     # compute the performance scores
-    print('########### testing3 ###########')
+    print('########### testing 6 ###########')
 
     scores = evaluate(test_loader, model, sents)
-    print('########### testing4 ###########')
+    print('########### testing 7 ###########')
 
     # write to file
     log_file_path = f"results_log/{args.dataset}.txt"
