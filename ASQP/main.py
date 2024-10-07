@@ -356,7 +356,6 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
     print('########### testing 2 ###########')
 
     if check_inference:
-        print('########### testing 3 ###########')   
         idx = np.random.randint(0, len(targets), 5)
         print(
             "\nPrint some results to check the sanity of generation method:",
@@ -371,7 +370,7 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
             except UnicodeEncodeError:
                 print("Unable to print due to the coding error")
         print()
-
+    print('########### testing 3 ###########')
     scores, all_labels, all_preds = compute_scores(
         outputs, targets, sents, task
     )
