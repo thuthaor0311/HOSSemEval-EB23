@@ -336,6 +336,7 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
 
     outputs, targets = [], []
 
+    print('########### testing ###########')
     for batch in tqdm(data_loader):
         # need to push the data to device
         outs = model.model.generate(
@@ -352,6 +353,7 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
 
         outputs.extend(dec)
         targets.extend(target)
+    print('########### testing ###########')
 
     if check_inference:
         idx = np.random.randint(0, len(targets), 5)
@@ -374,7 +376,7 @@ def evaluate(data_loader, model, sents, check_inference=False, task="asqp"):
     )
     results = {"scores": scores, "labels": all_labels, "preds": all_preds}
     # pickle.dump(results, open(f"{args.output_dir}/results-{args.dataset}.pickle", 'wb'))
-
+    print(results)
     return scores
 
 
