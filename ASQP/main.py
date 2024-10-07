@@ -462,9 +462,11 @@ if args.do_direct_eval:
         max_len=args.max_seq_length,
     )
     test_loader = DataLoader(test_dataset, batch_size=32, num_workers=4)
-    print(test_loader.device)
+    # print(test_loader.device)
 
     # compute the performance scores
+    print('########### testing ###########')
+
     scores = evaluate(test_loader, model, sents)
     print('########### testing ###########')
 
