@@ -26,6 +26,7 @@ numopinion2word = {"SP1": "positive", "SP2": "negative", "SP3": "neutral"}
 
 
 def extract_spans_para(task, seq, seq_type):
+    print('########### test 4 ###########')
     quads = []
     sents = [s.strip() for s in seq.split("[SSEP]")]
 
@@ -46,7 +47,7 @@ def extract_spans_para(task, seq, seq_type):
                 a, b, c = "", "", ""
             quads.append((a, b, c))
     elif task == "tasd":
-
+        print('########### test 5 ###########')
         for s in sents:
             # food quality is bad because pizza is bad.
 
@@ -168,6 +169,7 @@ def compute_f1_scores(pred_pt, gold_pt):
     # sbert_model = SentenceTransformer('bert-base-nli-mean-tokens')
 
     for i in range(len(pred_pt)):
+        print('########### test here ###########')
         # n_gold += len(gold_pt[i])
         # n_pred += len(pred_pt[i])
 
@@ -208,10 +210,12 @@ def compute_f1_scores(pred_pt, gold_pt):
         n_pred += len(pred_pt[i])
         n_pred_null += length_of_null_quads(pred_pt[i])
         for p in pred_pt[i]:
+            print('########### test here 1 ###########')
             if p[0] != "" and p[1] != "":
                 n_tp += check_label(p, gold_pt[i])
 
         ####### ........ #######
+    print('########### test here 2 ###########')
 
     n_gold = n_gold - n_gold_null
     n_pred = n_pred - n_pred_null
@@ -236,18 +240,20 @@ def compute_scores(pred_seqs, gold_seqs, sent, task="asqp"):
     """
     Compute model performance
     """
+    print('########### test 1 ###########')
     assert len(pred_seqs) == len(gold_seqs)
     num_samples = len(gold_seqs)
 
     all_labels, all_preds = [], []
 
+    print('########### test 2 ###########')
     for i in range(num_samples):
         gold_list = extract_spans_para(task, gold_seqs[i], "gold")
         pred_list = extract_spans_para(task, pred_seqs[i], "pred")
 
         all_labels.append(gold_list)
         all_preds.append(pred_list)
-
+    print('########### test 3 ###########')
     print("\nResults:")
     scores = compute_f1_scores(all_preds, all_labels)
     print(scores)
