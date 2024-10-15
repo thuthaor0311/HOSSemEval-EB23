@@ -574,7 +574,8 @@ if args.do_direct_eval:
     # log_file_path = f"results_log/{args.task}-{args.dataset}.txt"
     local_time = time.asctime(time.localtime(time.time()))
     exp_settings = f"{args.task} on {args.dataset} under {args.paradigm}; Train bs={args.train_batch_size}, num_epochs = {args.num_train_epochs}"
-    exp_results = f"F1 = {raw_scores['f1']:.4f}"
+    # exp_results = f"F1 = {raw_scores['f1']:.4f}"
+    exp_results = f"Precision = {raw_scores['precision']:.4f}, Recall = {raw_scores['recall']:.4f}, F1 = {raw_scores['f1']:.4f}"
     log_str = f"============================================================\n"
     log_str += f"{local_time}\n{exp_settings}\n{exp_results}\n\n"
     with open(log_file_path, "a+") as f:
