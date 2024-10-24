@@ -44,7 +44,7 @@ def init_args():
     )
     parser.add_argument(
         "--model_name_or_path",
-        default="google/flan-t5-large",
+        default="google/t5-base",
         type=str,
         help="Path to pre-trained model or shortcut name",
     )
