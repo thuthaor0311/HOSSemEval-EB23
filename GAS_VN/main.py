@@ -26,7 +26,7 @@ from tqdm import tqdm
 from transformers import (
     AdamW,
     AutoModel, 
-    AutoTokenizer
+    AutoTokenizer,
     get_linear_schedule_with_warmup,
 )
 
